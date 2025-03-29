@@ -1,0 +1,10 @@
+basically, a terminal style clone of quizlet, open source
+make folders and study sets locally
+easy import and export using chosen delimiters
+
+main_states:
+    0 - main menu
+    1 - creating set / folder
+    2 - searching set / folder
+    3 - inside set
+    4 - inside folder
